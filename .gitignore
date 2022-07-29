@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# REST tests
+*.http
+
+# CDK Synth
+cdk.out/
